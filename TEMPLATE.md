@@ -1,10 +1,10 @@
-# vApp Submission: [Your Project Name]
+# vApp Submission: Gaming Sound horeg
 
 ## Verification
 ```yaml
-github_username: "your-username"
-discord_id: "123456789012345678"
-timestamp: "2025-01-15"
+github_username: imozza
+discord_id: 929728266032521266
+timestamp: 2025 08 30
 ```
 
 ## Developer
